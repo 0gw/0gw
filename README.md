@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://cdn.discordapp.com/attachments/963168423100162108/963261981278748734/IMG_3691.jpg "Header")](https://ocho.dev/)
