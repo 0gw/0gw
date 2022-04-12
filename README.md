@@ -1,1 +1,1 @@
-[![Header](https://cdn.discordapp.com/attachments/963168423100162108/963261981278748734/IMG_3691.jpg "Header")](https://ocho.dev/)
+[![Header](https://openseauserdata.com/files/6072869fd581aeecfc1578520a3afa5c.svg "Header")](https://ocho.dev/)
